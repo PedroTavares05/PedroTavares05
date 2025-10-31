@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 I'm 18 years old, a high school student, and currently enrolled in two technical courses:  <br>- 💻 Web Development  <br>- 🖥️ Computer Science / IT  <br><br>🚀 Right now, I'm learning and practicing:  <br>- ⚡ Hardware<br>- 📱 jQuery Mobile  <br>- 🖥️ C#<br>- 🌐 PHP</p>
+<p align="left">🎓 I'm 18 years old, a high school student, and currently enrolled in two technical courses:  <br>- 💻 Web Development  <br>- 🖥️ Computer Science / IT  <br><br>🚀 Right now, I'm learning and practicing:  <br>- ⚡ Hardware Mobile  <br>- 🖥️ C#<br>- 🌐 PHP</p>
 
 ###
 
