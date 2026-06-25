@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 I'm 18 years old, a high school student, and currently enrolled in two technical courses:  <br>- 💻 Web Development  <br>- 🖥️ Computer Science / IT  <br><br>🚀 Right now, I'm learning and practicing:  <br>- ⚡ Hardware Mobile  <br>- 🖥️ C#<br>- 🌐 PHP</p>
+<p align="left">🎓 I'm 18 years old, a high school student, and currently enrolled in two technical courses:  <br>- 💻 Web Development  <br>- 🖥️ Computer Science / IT  <br><br>🚀 Right now, I'm learning and practicing:  <br>- ⚡ Hardware Mobile  <br>- 🖥️ C#<br></p>
 
 ###
 
@@ -19,15 +19,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
 </div>
