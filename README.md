@@ -30,20 +30,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroTavares05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroTavares05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=vue-dark&hide_border=false&order=2" height="140" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-<a href="www.linkedin.com/in/pedro-henrique-tavares-dos-santos-8090092b1">  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  /> </a>
-  <a href =" https://www.instagram.com/ph_tavares027/?next=%2F"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  /> </a>
-</div>
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroTavares05/PedroTavares05/output/pacman-contribution-graph-dark.svg">
